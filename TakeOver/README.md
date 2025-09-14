@@ -1,6 +1,6 @@
 ## TakeOver
 # IP
-- 10.10.39.209
+- 10.10.153.84
 # Description
 
 >"Hello there,
