@@ -20,7 +20,7 @@ Looks like it gifted us SSH passwords let's use them
 
 Great now we are connected to SSH
 
-Now quick traverse through path and our flag is in flag.txt
+Now quick traverse through directories and our flag is in flag.txt
 
 ![alt text](image-2.png)
 
